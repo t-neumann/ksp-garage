@@ -22,4 +22,4 @@ This repo contains vessels built for [Kerbal Space Program](https://kerbalspacep
 * scatterer
 * TextureReplacer
 
-
+![OOSS](/graphics/OOSS.jpg)
